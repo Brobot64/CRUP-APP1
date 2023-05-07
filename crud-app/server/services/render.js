@@ -1,5 +1,6 @@
 const axios = require('axios');
-let wins = window.location.origin;
+//let wins = window.location.origin
+let wins = 'https://cruppappnode.onrender.com'
 
 
 exports.homeRoutes = (req, res) => {
